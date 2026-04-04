@@ -1,16 +1,14 @@
-## Hi there 👋
+## DEEZ | PROJECTS (`spaced`)
+<img align="right" width="350" height="350" src="https://fdn2.gsmarena.com/vv/pics/realme/realme-8i-1.jpg">
 
-<!--
-**daizeuz-dred/daizeuz-dred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just got effin bored and want to escape my mind lol.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Repositories
+* [**Device Tree**](https://github.com/daizeuz-dred/android_device_realme_spaced) (`android_device_realme_spaced`)
+* [**Kernel Tree**](https://github.com/daizeuz-dred/android_kernel_realme_spaced_NebulaPrime) (`android_kernel_realme_mt6781`)
+* [**Vendor Tree**](https://github.com/daizeuz-dred/android_vendor_realme_spaced) (`android_vendor_realme_spaced`)
+* [**Oplus Hardware Tree**](https://github.com/LineageOS/android_hardware_oplus) (`android_hardware_oplus`)
+* [**MediaTek Hardware Tree**](https://github.com/LineageOS/android_hardware_mediatek) (`android_hardware_mediatek`)
+* [**MediaTek Common IMS Tree**](https://github.com/realme-mt6781-dev/android_vendor_mediatek_ims) (`android_vendor_mediatek_ims`)
+* [**Sepolicy**](https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
+* [**Dolby**](https://github.com/realme-mt6781-dev/android_hardware_dolby) (`android_hardware_dolby`)
