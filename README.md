@@ -11,6 +11,8 @@ Just got effin bored and want to escape my mind lol.
 * [**MediaTek Hardware Tree**](https://github.com/LineageOS/android_hardware_mediatek) (`android_hardware_mediatek`)
 * [**MediaTek Common IMS Tree**](https://github.com/realme-mt6781-dev/android_vendor_mediatek_ims) (`android_vendor_mediatek_ims`)
 * [**Sepolicy**](https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
+* [**Sony Dolby**](https://github.com/daizeuz-dred/android_hardware_dolby) (`android_hardware_dolby`)
+
 
 
 
