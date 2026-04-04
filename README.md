@@ -1,5 +1,5 @@
 ## DEEZ | PROJECTS (`spaced`)
-<img align="right" width="350" height="350" src="https://fdn2.gsmarena.com/vv/pics/realme/realme-8i-1.jpg">
+<img align="right" width="350" height="300" src="https://fdn2.gsmarena.com/vv/pics/realme/realme-8i-1.jpg">
 
 Just got effin bored and want to escape my mind lol.
 
