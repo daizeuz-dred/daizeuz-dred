@@ -20,8 +20,6 @@ Just got effin bored and want to escape my mind lol.
 ##
 ## ROMs (`spaced`)
 
-Just got effin bored and want to escape my mind lol.
-
 ### ROMs Repositories
 * [Axion AOSP 2.4 SOLACE | QPR1 | Unofficial ](https://github.com/daizeuz-dred/Axion-AOSP-v2.4-SOLACE-QPR1-for-spaced-Initial-Build) (`Solace for spaced`)
 * [Lunaris AOSP 3.8 | QPR2 | Unofficial ](https://github.com/daizeuz-dred/Lunaris-AOSP-3.8-QPR2-Unofficial-for-spaced) (`Lunaris for spaced`)
