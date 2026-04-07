@@ -22,6 +22,7 @@ Just got effin bored and want to escape my mind lol.
 
 ### ROMs Repositories
 * [Axion AOSP 2.4 SOLACE | QPR1 | Unofficial ](https://github.com/daizeuz-dred/Axion-AOSP-v2.4-SOLACE-QPR1-for-spaced-Initial-Build) (`Solace for spaced`)
+* [Infinity X 3.7 | QPR2 | Unofficial ](https://github.com/daizeuz-dred/Infinity-X-3.7-QPR2-Unofficial-for-spaced) (`Infinity X 3.7 for spaced`)
 * [Lunaris AOSP 3.8 | QPR2 | Unofficial ](https://github.com/daizeuz-dred/Lunaris-AOSP-3.8-QPR2-Unofficial-for-spaced) (`Lunaris for spaced`)
 * [Infinity X 3.8 | QPR2 | Unofficial ](https://github.com/daizeuz-dred/Infinity-X-3.8-QPR2-for-Realme-8i-Narzo-50-spaced) (`Infinity X 3.8 for spaced`)
-* [Infinity X 3.7 | QPR2 | Unofficial ](https://github.com/daizeuz-dred/Infinity-X-3.7-QPR2-Unofficial-for-spaced) (`Infinity X 3.7 for spaced`)
+* [Infinity X 3.9 | QPR2 | Unofficial ](https://github.com/daizeuz-dred/Infinity-X-3.9-QPR2-for-Realme-8i-Narzo-50-spaced) (`Infinity X 3.8 for spaced`)
