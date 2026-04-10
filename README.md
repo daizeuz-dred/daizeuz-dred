@@ -26,3 +26,6 @@ Just got effin bored and want to escape my mind lol.
 * [Lunaris AOSP 3.8 | QPR2 | Unofficial ](https://github.com/daizeuz-dred/Lunaris-AOSP-3.8-QPR2-Unofficial-for-spaced) (`Lunaris for spaced`)
 * [Infinity X 3.8 | QPR2 | Unofficial ](https://github.com/daizeuz-dred/Infinity-X-3.8-QPR2-for-Realme-8i-Narzo-50-spaced) (`Infinity X 3.8 for spaced`)
 * [Infinity X 3.9 | QPR2 | Unofficial ](https://github.com/daizeuz-dred/Infinity-X-3.9-QPR2-for-Realme-8i-Narzo-50-spaced) (`Infinity X 3.8 for spaced`)
+
+##
+## HYPERION KERNEL (`spaced`)
