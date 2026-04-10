@@ -5,7 +5,7 @@ Just got effin bored and want to escape my mind lol.
 
 ### Repositories
 * [**Device Tree**](https://github.com/daizeuz-dred/android_device_realme_spaced) (`android_device_realme_spaced`)
-* [**Kernel Tree**](https://github.com/daizeuz-dred/android_kernel_realme_spaced_NebulaPrime) (`android_kernel_realme_mt6781`)
+* [**Kernel Tree**](https://github.com/daizeuz-dred/android_kernel_realme_spaced_hyp) (`android_kernel_realme_mt6781`)
 * [**Vendor Tree**](https://github.com/daizeuz-dred/android_vendor_realme_spaced) (`android_vendor_realme_spaced`)
 * [**Oplus Hardware Tree**](https://github.com/LineageOS/android_hardware_oplus) (`android_hardware_oplus`)
 * [**MediaTek Hardware Tree**](https://github.com/LineageOS/android_hardware_mediatek) (`android_hardware_mediatek`)
