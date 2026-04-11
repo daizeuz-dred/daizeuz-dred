@@ -1,4 +1,4 @@
-## DEEZ | PROJECTS (`spaced`)
+## DEEZ | PROJECTS (`spaced device trees`)
 <img align="right" width="350" height="300" src="https://fdn2.gsmarena.com/vv/pics/realme/realme-8i-1.jpg">
 
 Just got effin bored and want to escape my mind lol.
