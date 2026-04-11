@@ -13,6 +13,7 @@ Just got effin bored and want to escape my mind lol.
 * [**Sepolicy**](https://github.com/LineageOS/android_device_mediatek_sepolicy_vndr) (`android_device_mediatek_sepolicy_vndr`)
 * [**Sony Dolby**](https://github.com/daizeuz-dred/android_hardware_dolby) (`android_hardware_dolby`)
 
+
 ### CREDITS to @HELLINFIX for all his work and sources. Thanks Sar!
 
 
