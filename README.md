@@ -32,4 +32,5 @@ Just got effin bored and want to escape my mind lol.
 
 ##
 ## HYPERION KERNEL (`spaced`)
+* [Hyperion Kernel v1.1 - RKSU v3 ](https://github.com/daizeuz-dred/Hyperion-Kernel-v1.1)  (`The Quiet Resilience`)
 * [Hyperion Kernel v1 - RKSU v3 ](https://github.com/daizeuz-dred/Hyperion-Kernel-V1-Releases)  (`The Silent Peak`)
