@@ -16,7 +16,7 @@ Just got effin bored and want to escape my mind lol.
 
 
 
-### CREDITS to @HELLINFIX for all his work and sources. Thanks Sar!
+### CREDITS to @HELLINFIX for all his work and base sources. Thanks Sar!
 
 
 
